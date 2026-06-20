@@ -1,3 +1,3 @@
-# rimworld_text_game_
-A fun python based text game developed by ElPatriccio.
-You can find the original source link here at https://github.com/ElPatriccio/Rimworld-text-game.git
+# Rimworld-text-game
+
+Just playing around with Python OOP!
